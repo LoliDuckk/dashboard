@@ -24,7 +24,7 @@
 
 ## Демонстрация
 
-**Live Demo:** [https://dashboard.vercel.app](https://dashboard.vercel.app)
+**Live Demo:** [Vercel.app](https://dashboard-two-jet-34.vercel.app/)
 
 ## Быстрый старт
 
